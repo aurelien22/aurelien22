@@ -28,10 +28,13 @@ However, I hope to get abilities in :
 
 ## 🔭 **I’m currently working on**
 
- EquiKenotte : A SaaS mobile application to help equine dentist to manage. their business
-- WellStable : A chat application to facilitate informations exchanges between stables manager and horses owners.
-- The website of the Plenitude center in Pleneuf-val-andré
-- The booking website of the Kerity house
+  🚀 EquiKenotte : A SaaS mobile application to help equine dentist to manage. their business
+  
+  🚀 WellStable : A chat application to facilitate informations exchanges between stables manager and horses owners.
+
+  🚀 The website of the Plenitude center in Pleneuf-val-andré
+
+  🚀 The booking website of the Kerity house
 
 ## 📫 How to reach me
 - [Porfolio](https://localhost) 🌇 Comming soon 🚀
