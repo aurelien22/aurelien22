@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hello there ! My name is Aurélien Dincuff 👋😄
+--- 
+After studies in IT when I had 20 years old, I became co-manager of a thalassotherapy stable with my wife for years.
+That was a really interesting period where I can develop many of skills useful to manage a company but at the beginning of 2020, I decide to retrieve my field of predilection : 👨‍💻 Computer science.
 
-<!--
-**aurelien22/aurelien22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working to be a Full-stack developer and I enjoy discovering new technologies and possibilities but I decided to specialise in : 
 
-Here are some ideas to get you started:
+Back-end :   ![PHP](https://simpleicons.org/icons/php.svg =50x) ![SYMFONY](https://simpleicons.org/icons/symfony.svg =50x)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-end :   ![HTML](https://simpleicons.org/icons/html5.svg =50x)![CSS](https://simpleicons.org/icons/css3.svg =50x)![TAILWINDCSS](https://simpleicons.org/icons/tailwindcss.svg =50x)![REACTJS](https://simpleicons.org/icons/react.svg =50x)
+
+Mobile : ![REACTJS](https://simpleicons.org/icons/react.svg =50x)
+
+
+However, I hope to get abilities in : ![SWIFT](https://simpleicons.org/icons/swift.svg =50x)
+
+--- 
+
+## 🔭 **I’m currently working on**
+
+ EquiKenotte : A SaaS mobile application to help equine dentist to manage. their business
+- WellStable : A chat application to facilitate informations exchanges between stables manager and horses owners.
+- The website of the Plenitude center in Pleneuf-val-andré
+- The booking website of the Kerity house
+
+## 📫 How to reach me
+- [Porfolio](https://localhost) 🌇 Comming soon 🚀
+- [LinkedIn](https://www.linkedin.com/in/aurélien-dincuff-co-gerant-entreprise/) 🖥
+- [Instagram](https://www.instagram.com/aurelien_dincuff) 📷
+- [Twitter](https://twitter.com/darklondon22) 🐤
+
+##
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aurelien22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelien22&layout=compact)](https://github.com/aurelien22/github-readme-stats)
