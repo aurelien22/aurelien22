@@ -3,8 +3,8 @@
 
 ### Hello there ! My name is Aurélien Dincuff 👋😄
 --- 
-After studies in IT when I had 20 years old, I became co-manager of a thalassotherapy stable with my wife for years.
-That was a really interesting period where I can develop many of skills useful to manage a company but at the beginning of 2020, I decide to retrieve my field of predilection : 👨‍💻 Computer science.
+After studies in IT when I was 20, I became co-manager of a thalassotherapy stable with my wife for years.
+That was a facinating period where I can develop many of skills useful to manage a company but at the beginning of 2020, I decide to retrieve my field of predilection : 👨‍💻 Computer science.
 
 I'm working to be a Full-stack developer and I enjoy discovering new technologies and possibilities but I decided to specialise in : 
 
@@ -28,11 +28,11 @@ However, I hope to get abilities in :
 
 ## 🔭 **I’m currently working on**
 
-  🚀 EquiKenotte : A SaaS mobile application to help equine dentist to manage. their business
+  🚀 EquiKenotte : A SaaS mobile application to help equine dentist to manage their business
   
-  🚀 WellStable : A chat application to facilitate informations exchanges between stables manager and horses owners.
+  🚀 WellStable : A chat application to facilitate information exchanges between stables manager and horses owners.
 
-  🚀 The website of the Plenitude center in Pleneuf-val-andré
+  🚀 The website of the Plenitude centre in Pleneuf-val-andré
 
   🚀 The booking website of the Kerity house
 
