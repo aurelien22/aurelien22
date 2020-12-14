@@ -36,6 +36,8 @@ However, I hope to get abilities in :
 
   🚀 The booking website of the Kerity house
 
+---
+
 ## 📫 How to reach me
 - [Porfolio](https://localhost) 🌇 Comming soon 🚀
 - [LinkedIn](https://www.linkedin.com/in/aurélien-dincuff-co-gerant-entreprise/) 🖥
