@@ -8,14 +8,21 @@ That was a really interesting period where I can develop many of skills useful t
 
 I'm working to be a Full-stack developer and I enjoy discovering new technologies and possibilities but I decided to specialise in : 
 
-Back-end :   ![PHP](https://simpleicons.org/icons/php.svg =50x) ![SYMFONY](https://simpleicons.org/icons/symfony.svg =50x)
+Back-end :
 
-Front-end :   ![HTML](https://simpleicons.org/icons/html5.svg =50x)![CSS](https://simpleicons.org/icons/css3.svg =50x)![TAILWINDCSS](https://simpleicons.org/icons/tailwindcss.svg =50x)![REACTJS](https://simpleicons.org/icons/react.svg =50x)
+  - PHP
+  - Symfony
 
-Mobile : ![REACTJS](https://simpleicons.org/icons/react.svg =50x)
+Front-end :
+
+  - HTML5, CSS3, TailWindCSS, ReactJS
+
+Mobile : React Native
 
 
-However, I hope to get abilities in : ![SWIFT](https://simpleicons.org/icons/swift.svg =50x)
+However, I hope to get abilities in :
+
+  - SWIFT
 
 --- 
 
