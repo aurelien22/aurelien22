@@ -1,3 +1,6 @@
+##
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aurelien22)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelien22&layout=compact)](https://github.com/aurelien22/github-readme-stats)
+
 ### Hello there ! My name is Aurélien Dincuff 👋😄
 --- 
 After studies in IT when I had 20 years old, I became co-manager of a thalassotherapy stable with my wife for years.
@@ -29,6 +32,3 @@ However, I hope to get abilities in : ![SWIFT](https://simpleicons.org/icons/swi
 - [Instagram](https://www.instagram.com/aurelien_dincuff) 📷
 - [Twitter](https://twitter.com/darklondon22) 🐤
 
-##
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aurelien22)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelien22&layout=compact)](https://github.com/aurelien22/github-readme-stats)
