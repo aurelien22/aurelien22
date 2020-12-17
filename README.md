@@ -11,18 +11,24 @@ I'm working to be a Full-stack developer and I enjoy discovering new technologie
 Back-end :
 
   - PHP
-  - Symfony
+  - JAVA
+  - Javascript / TypeScript
+  - Symfony / API Platform
+  - Spring boot
 
 Front-end :
 
-  - HTML5, CSS3, TailWindCSS, ReactJS
+  - HTML5, CSS3 
+  - Javascript / TypeScript
+  - TailWindCSS
+  - ReactJS
 
 Mobile : React Native
 
 
 However, I hope to get abilities in :
 
-  - SWIFT
+  - SWIFT for native iOS development.
 
 --- 
 
