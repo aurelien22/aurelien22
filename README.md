@@ -28,7 +28,7 @@ Mobile : React Native
 
 However, I hope to get abilities in :
 
-  - SWIFT for native iOS development.
+  - NoSQL databases, GraphQL, ...
 
 --- 
 
