@@ -23,11 +23,14 @@ Front-end :
   - TailWindCSS
   - ReactJS
 
-Mobile : React Native
+Mobile : 
+
+  - React Native
 
 
 However, I hope to get abilities in :
 
+  - NodeJS, ExpressJS, ...
   - NoSQL databases, GraphQL, ...
 
 --- 
