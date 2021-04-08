@@ -10,11 +10,11 @@ I'm working to be a Full-stack developer and I enjoy discovering new technologie
 
 Back-end :
 
-  - PHP
   - JAVA
+  - PHP
   - Javascript / TypeScript
-  - Symfony / API Platform
   - Spring boot
+  - Symfony / API Platform
 
 Front-end :
 
