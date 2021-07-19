@@ -4,23 +4,21 @@
 ### Hello there ! My name is Aurélien Dincuff 👋😄
 --- 
 After studies in IT when I was 20, I became co-manager of a thalassotherapy stable with my wife for years.
-That was a facinating period where I can develop many of skills useful to manage a company but at the beginning of 2020, I decide to retrieve my field of predilection : 👨‍💻 Computer science.
+That was a facinating period where I can develop many of skills useful to manage a company but at the beginning of 2020, I decide to retrieve my field of predilection : 👨‍💻 The computer science.
 
 I'm working to be a Full-stack developer and I enjoy discovering new technologies and possibilities but I decided to specialise in : 
 
 Back-end :
 
   - JAVA
-  - PHP
   - Javascript / TypeScript
   - Spring boot
-  - Symfony / API Platform
+  - Relational databases
 
 Front-end :
 
   - HTML5, CSS3 
   - Javascript / TypeScript
-  - TailWindCSS
   - ReactJS
 
 Mobile : 
@@ -30,8 +28,9 @@ Mobile :
 
 However, I hope to get abilities in :
 
-  - NodeJS, ExpressJS, ...
-  - NoSQL databases, GraphQL, ...
+  - DevOps
+  - NoSQL databases like MongoDB or Cassandra
+  - Big Data
 
 --- 
 
@@ -41,9 +40,8 @@ However, I hope to get abilities in :
   
   🚀 WellStable : A chat application to facilitate information exchanges between stables manager and horses owners.
 
-  🚀 The website of the Plenitude centre in Pleneuf-val-andré
+  🚀 A breeding register
 
-  🚀 The booking website of the Kerity house
 
 ---
 
