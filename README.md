@@ -40,7 +40,7 @@ However, I hope to get abilities in :
   
   🚀 WellStable : A chat application to facilitate information exchanges between stables manager and horses owners.
 
-  🚀 A breeding register
+  🚀 RacingStats : A web application to centralise data on racehorses. 
 
 
 ---
