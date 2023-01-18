@@ -28,9 +28,8 @@ Mobile :
 
 However, I hope to get abilities in :
 
+  - Golang & Rust
   - DevOps
-  - NoSQL databases like MongoDB or Cassandra
-  - Big Data
 
 --- 
 
